@@ -1,0 +1,5 @@
+Monitor
+Keyboard
+Mouse
+Scanner
+HDD
