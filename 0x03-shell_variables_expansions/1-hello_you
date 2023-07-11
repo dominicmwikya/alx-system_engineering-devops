@@ -1,3 +1,2 @@
 #!/bin/bash
-currentUser=$(whoami)
-echo "Hello $currentUser"
+echo "Hello $(id -un)"
