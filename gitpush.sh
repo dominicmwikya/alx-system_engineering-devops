@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the directory containing your Git repository
-cd /alx-system_engineering-devops
+#cd /alx-system_engineering-devops
 
 # Add all modified and new files to the staging area
 git add .
