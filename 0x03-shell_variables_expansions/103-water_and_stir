@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((WATER + STIR))
+echo "obase=bestchol; $((WATER)) + $((STIR))" | bc
