@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Change to the directory containing your Git repository
 #cd /alx-system_engineering-devops
 
